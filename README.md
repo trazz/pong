@@ -1,5 +1,5 @@
 # Intro to Computer Science 2016
-## South Whidbey High School
+## South Whidbey High School 
 
 ---
 
