@@ -87,8 +87,10 @@ void draw() {
     if(ball_y <= ball_size) {
         dy = dy * -1;
     }
+    }
     //add another ball
     if(score > 10 + ball);
+    }
     // Draw ball
     fill(0,0,0);
     ellipse(ball_x, ball_y, ball_size, ball_size);
