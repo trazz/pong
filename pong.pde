@@ -31,7 +31,7 @@ void draw() {
     background(51,255,51);
 
     // Increment x and y by speed of ball
-    ball_x += ball_dir * 10.0;
+    ball_x += ball_dir * 20.0;
     ball_y += dy;
 
     // If the ball was missed... start over
@@ -89,10 +89,10 @@ void draw() {
     }
 
     // Draw ball
-    fill(0,0,255);
+    fill(0,0,0);
     ellipse(ball_x, ball_y, ball_size, ball_size);
 
     // Draw the paddle
-    fill(255,255,255);
+    fill(0,0,0);
     rect(width-dist_wall, paddle_y, paddle_width, paddle_height);  
 };
