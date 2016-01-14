@@ -11,8 +11,8 @@ var paddle_height = 20;
 
 var dist_wall = 8;
 
-// Adding total hits here...
-//float total = 0;
+Adding total hits here...
+float total = 0;
 float highscore = 0;
 float score = 0;
 
