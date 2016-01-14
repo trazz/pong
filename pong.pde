@@ -89,7 +89,7 @@ void draw() {
     }
     }
     //add another ball
-    if(score > 10 + ball_x+ball_y);
+    if(score > 10 + ball_x & ball_y);
     }
     // Draw ball
     fill(0,0,0);
