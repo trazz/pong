@@ -92,7 +92,6 @@ void draw() {
     fill(0,0,0);
     ellipse(ball_x, ball_y, ball_size, ball_size);
 
-// Draw ball
     fill(0,0,0);
     ellipse(ball_x, ball_y, ball_size, ball_size);
     
